@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TheBatmanWhoLaughss
+- 👋 Hi, I’m @CrazyDiamond
+-
 - 👀 I’m interested in making discord bots and games
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
